@@ -19,3 +19,9 @@ REST API for handling memory storage & retrieval for Trinity System.
 ## Environment Variables
 
 See `.env.example` for required keys.
+
+## Setup
+
+1. Clone the repo  
+2. Install dependencies  
+
